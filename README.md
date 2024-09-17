@@ -1,7 +1,6 @@
-# Hi, I'm Elias 🐱
 A student from Taiwan.\
-I love coding because it turns ideas from my head into reality.
+💕 Lover of Vim and Linux
 
-⛏️❤️ Tools I mostly use: JavaScript(no typescript)/Svelte/React(Next.js)/Bash\
+⛏️ Stuff I mostly use: JavaScript(no typescript)/Svelte/React(Next.js)/Bash\
 📚 Still Learning: Java/Rust\
 🌐 Website: https://eliaschen.dev
