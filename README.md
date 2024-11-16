@@ -1,5 +1,5 @@
 💕 Lover of Vim and Linux!
 
-⛏️ Stuff I mostly use: JavaScript(no typescript)/Svelte/React(Next.js)/Bash\
-📚 Still Learning: Kotlin/Rust\
+⛏️ Stuff I mostly use: JavaScript/Svelte/React(Next.js)/Bash\
+📚 Still Learning: Compose\
 🌐 Website: https://eliaschen.dev
