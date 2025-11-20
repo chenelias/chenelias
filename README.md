@@ -1,4 +1,4 @@
-💕 Lover of Vim and Linux!
+💕 Lover of Kitty
 
 ⛏️ Stack: Svelte/Next.js/jetpack compose/flutter/swift\
 🌐 Website: https://eliaschen.dev
