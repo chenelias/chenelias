@@ -1,4 +1,7 @@
-💕 Lover of Kitty
+# ⛏️ Skills
+- Web Framework: Next/Astro/Svelte/React
+- Backend: Express/Elysia
+- Mobile: Flutter/Jetpack Compose/Swift UI
+- Software: Docker/Git/Nginx/Figma/PostgreSQL/MongoDB
 
-⛏️ Stack: Svelte/Next.js/jetpack compose/flutter\
 🌐 Website: https://eliaschen.dev
