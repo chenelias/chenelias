@@ -1,4 +1,4 @@
-# ⛏️ Skills
+⛏️ Skills
 - Web Framework: Next/Astro/Svelte/React
 - Backend: Express/Elysia
 - Mobile: Flutter/Jetpack Compose/Swift UI
